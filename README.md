@@ -139,11 +139,12 @@ StuntStorm's Github : https://github.com/StuntStorm
 
 More NPM Packages : https://www.npmjs.com/~stuntstorm
 
+## Bots using this Project 👾
+### [StuntStorm Discord bot](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702) by StuntStorm#7231
+
 ## NOTE 🗃️
 
 This package is protected under MIT license. 🔒
 
-## Bots using this Project 👾
-### [StuntStorm Discord bot](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702) by StuntStorm#7231
 
 ### Created and Published by StuntStorm
