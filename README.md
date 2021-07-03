@@ -1,6 +1,6 @@
   # StuntStorm's Easy to use **Basic Setup NPM**
 
-Basic Setup commands for discord bot. A Few Handful commands created for a youtube video
+Basic Setup commands for discord bot. A Few commands created for a youtube video
 
 ![@stuntstormmath (3)](https://user-images.githubusercontent.com/56226566/124359639-7348c300-dc43-11eb-9ff2-126cb4bf98b3.png)
 
